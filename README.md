@@ -9,9 +9,7 @@ quantos produtos e o valor total.
 
 Versao 1:
 
-<div align="center">
-    <img src="/../master/lanchonetev1.png"/>
-</div>
+https://github.com/braianxde/projetoIntegrador2A/blob/main/lanchonetev1.png
 
 
 Na segunda versao (lanchonete2.py) temos uma versao mais simplifacada para atender aos requisitos do que foi aprendido em aula sem utilizar de
@@ -19,9 +17,7 @@ recursos mais avancados da linguagem, nesse caso ele apenas soma o que a pessoa 
 
 Versao 2:
 
-<div align="center">
-    <img src="/../master/lanchonete2.png"/>
-</div>
+https://github.com/braianxde/projetoIntegrador2A/blob/main/lanchonete2.png
 
 Projeto feito por:
 * BRAIAN WEGMANN SCHUSTER
