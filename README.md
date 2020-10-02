@@ -10,7 +10,7 @@ quantos produtos e o valor total.
 Versao 1:
 
 <div align="center">
-    <img src="/../master/lanchonetev1.PNG"/>
+    <img src="/../master/lanchonetev1.png"/>
 </div>
 
 
