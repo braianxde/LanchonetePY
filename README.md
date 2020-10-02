@@ -1,21 +1,19 @@
-Projeto Python feito no curso de Analise e Desenvolvimento de Sistemas na Universidade de Santa Cruz do Sul (UNISC)
+Projeto Python feito no curso de Análise e Desenvolvimento de Sistemas na Universidade de Santa Cruz do Sul (UNISC)
 
 Trata-se do desenvolvimento de um programa computacional focando nas disciplinas de Algoritmos e Programação e Lógica Computacional.
 
-A escolha foi montar um menu para apresentar opcoes de lanches e bebidas numa lanchonete e ao final mostrar o valor total do pedido.
+A escolha foi montar um menu para apresentar opções de lanches e bebidas numa lanchonete e ao final mostrar o valor total do pedido.
 
-No Projeto temos 2 versoes, a primeira versao eh mais completa (lanchonete.py) que mostra quais produtos foram selecionados incluindo o seu valor unitario,
-quantos produtos e o valor total.
+No Projeto temos 2 versões, a primeira versão é mais completa (lanchonete.py) que mostra quais produtos foram selecionados incluindo o 
+seu valor unitário, quantos produtos e o valor total.
 
-Versao 1:
+Versão 1:
 
 https://github.com/braianxde/projetoIntegrador2A/blob/main/lanchonetev1.png
 
+Na segunda versão (lanchonete2.py) temos uma versão mais simplificada para atender aos requisitos do que foi aprendido em aula sem utilizar de recursos mais avançados da linguagem, nesse caso ele apenas soma o que a pessoa escolher e no final mostra o valor total do pedido.
 
-Na segunda versao (lanchonete2.py) temos uma versao mais simplifacada para atender aos requisitos do que foi aprendido em aula sem utilizar de
-recursos mais avancados da linguagem, nesse caso ele apenas soma o que a pessoa escolher e no final mostra o valor total do pedido.
-
-Versao 2:
+Versão 2:
 
 https://github.com/braianxde/projetoIntegrador2A/blob/main/lanchonete2.png
 
