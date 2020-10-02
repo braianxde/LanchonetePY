@@ -10,7 +10,7 @@ quantos produtos e o valor total.
 Versao 1:
 
 <div align="center">
-    <img src="/../master/lanchonetev1.png" width="400px" height="800px"/>
+    <img src="/../master/lanchonetev1.PNG"/>
 </div>
 
 
@@ -20,7 +20,7 @@ recursos mais avancados da linguagem, nesse caso ele apenas soma o que a pessoa 
 Versao 2:
 
 <div align="center">
-    <img src="/../master/lanchonete2.png" width="400px" height="800px"/>
+    <img src="/../master/lanchonete2.png"/>
 </div>
 
 Projeto feito por:
